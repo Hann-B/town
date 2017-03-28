@@ -1,0 +1,6 @@
+c:\users\hanna\documents\visual studio 2017\Projects\town\town\bin\Debug\town.exe.config
+c:\users\hanna\documents\visual studio 2017\Projects\town\town\bin\Debug\town.exe
+c:\users\hanna\documents\visual studio 2017\Projects\town\town\bin\Debug\town.pdb
+c:\users\hanna\documents\visual studio 2017\Projects\town\town\obj\Debug\town.csprojResolveAssemblyReference.cache
+c:\users\hanna\documents\visual studio 2017\Projects\town\town\obj\Debug\town.exe
+c:\users\hanna\documents\visual studio 2017\Projects\town\town\obj\Debug\town.pdb
